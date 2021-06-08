@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SiluetaYa</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="imagen_entrada">Reloj</string>
+    <string name="text_entrada_uno">Con Silueta YA,</string>
+    <string name="text_entrada_dos">siempre ganas</string>
+    <string name="text_entrada_tres">Descubrelo</string>
+    <string name="boton_entrada">INICIA REGISTRO</string>
+    <string name="boton_usuario">INICIA YA</string>
+    <string name="boton_vendedor">VENDE YA</string>
+
+</resources>
